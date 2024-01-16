@@ -27,3 +27,6 @@ I am a Salesforce Developer turned into founder. Currently, I am building a plat
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lqor&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+
+[![](https://visitcount.itsvg.in/api?id=Iqgor&icon=0&color=0)](https://visitcount.itsvg.in)
