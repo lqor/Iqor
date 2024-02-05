@@ -1,4 +1,4 @@
-Hi 👋 My name is Igor Kudryk
+Hi 👋 My name is Igor
 ============================
 
 Salesforce Dev
